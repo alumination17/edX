@@ -1,0 +1,3 @@
+-use DIMPLE DUNCTION and DARIABLE DAMES
+-comment code
+-organize code into functions
